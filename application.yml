@@ -1,0 +1,20 @@
+server:
+  data:
+    mongodb:
+      database: Product_DB
+      host: localhost
+      port: 27017
+  port: 9003
+  servlet:
+    context-path: /bona-fide-service
+
+jwt:
+  secret: bona-fide
+  enabled: true
+
+spring:
+  data:
+    cassandra:
+      port: 9042
+      contact-points: cassandra
+      keyspace-name: productkeyspace

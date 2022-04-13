@@ -1,0 +1,56 @@
+[
+  {
+    "productId": 1,
+    "productName": "RED LEATHER",
+    "productDescription": "Red Leather Jacket",
+    "productPrice": 356.00,
+    "productStock": 100,
+    "currency": "$",
+    "productImgThumb": "https://pngimg.com/uploads/jacket/jacket_PNG8058.png"
+  },
+  {
+    "productId": 2,
+    "productName": "SCOTT",
+    "productDescription": "Black Scott Jacket",
+    "productPrice": 533.00,
+    "productStock": 100,
+    "currency": "$",
+    "productImgThumb": "https://pngimg.com/uploads/jacket/jacket_PNG8045.png"
+  },
+  {
+    "productId": 3,
+    "productName": "BLACK LEATHER",
+    "productDescription": "Black Leather Jacket",
+    "productPrice": 298.00,
+    "productStock": 100,
+    "currency": "$",
+    "productImgThumb": "https://pngimg.com/uploads/jacket/jacket_PNG8025.png"
+  },
+  {
+    "productId": 4,
+    "productName": "IICON",
+    "productDescription": "Iicon Waterproof Jacket",
+    "productPrice": 610.00,
+    "productStock": 100,
+    "currency": "$",
+    "productImgThumb": "https://pngimg.com/uploads/jacket/jacket_PNG8042.png"
+  },
+  {
+    "productId": 5,
+    "productName": "MOUNTAIN HARD WEAR",
+    "productDescription": "Mountain Orange Hard Wear Jacket",
+    "productPrice": 411.00,
+    "productStock": 100,
+    "currency": "$",
+    "productImgThumb": "https://pngimg.com/uploads/jacket/jacket_PNG8050.png"
+  },
+  {
+    "productId": 6,
+    "productName": "SERGIO TACCH",
+    "productDescription": "Blue Serio Tacch Jacket",
+    "productPrice": 399.00,
+    "productStock": 100,
+    "currency": "$",
+    "productImgThumb": "https://pngimg.com/uploads/jacket/jacket_PNG8056.png"
+  }
+]
